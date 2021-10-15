@@ -10,7 +10,7 @@
 
 ## Description
 
-This app is an e-commerce platform that uses Redux to manage global state. The JavaScript library Redix was utilized to manage complex state in a large-scale React application.
+This app is an e-commerce platform that uses Redux to manage global state. The JavaScript library Redux was utilized to manage complex state in a large-scale React application.
 
 ## Table of Contents
 
